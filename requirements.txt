@@ -1,2 +1,15 @@
+pyrogram
+tgcrypto
 requests
-flask
+httpx
+aiohttp
+mutagen
+pytube
+shazamio
+dataclass-factory
+pydantic
+python-arq
+redis
+telegraph
+youtube_search
+yt_dlp
